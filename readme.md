@@ -2,7 +2,6 @@
 
 This project predicts the survival of passengers aboard the Titanic using various machine learning models. It involves data preprocessing, model training, performance evaluation, and final prediction submission.
 
----
 
 ## Dataset Used
 
@@ -10,7 +9,6 @@ This project predicts the survival of passengers aboard the Titanic using variou
 - **test.csv**: Test data for final prediction  
 - **Source**: Kaggle
 
----
 
 ## Technologies & Libraries
 
@@ -19,7 +17,6 @@ This project predicts the survival of passengers aboard the Titanic using variou
 - Matplotlib, Seaborn  
 - Scikit-learn
 
----
 
 ## Data Preprocessing
 
@@ -30,7 +27,6 @@ This project predicts the survival of passengers aboard the Titanic using variou
 - Dropped irrelevant columns: `Name`, `Ticket`, `Cabin`
 - Encoded categorical features (`Sex`, `Embarked`) using `LabelEncoder`
 
----
 
 ## Models Used
 
@@ -43,7 +39,6 @@ This project predicts the survival of passengers aboard the Titanic using variou
 | K-Nearest Neighbors        | KNN          |
 | Gaussian Naive Bayes       | NB           |
 
----
 
 ## Evaluation Metrics
 
@@ -60,14 +55,12 @@ This project predicts the survival of passengers aboard the Titanic using variou
 - ROC Curves: All models plotted in one graph  
 - Confusion Matrices: Individual heatmaps for each model
 
----
 
 ## Best Performing Model
 
 - **Random Forest Classifier** showed the highest accuracy and AUC.  
 - It was selected for making final predictions on the test dataset.
 
----
 
 ## Output
 
@@ -75,7 +68,11 @@ This project predicts the survival of passengers aboard the Titanic using variou
   - `PassengerId`
   - `Survived`
 
----
 
+## 🡩‍💻 Author
 
+Made by [**Daksh Aggarwal**](https://github.com/Daksh-Aggarwal), [**Anushka Verma**](https://github.com/anushka-verma-CODES), and **Vemula Manvi Smaran**.
 
+## 📄 License
+
+This project is licensed under the MIT License.
