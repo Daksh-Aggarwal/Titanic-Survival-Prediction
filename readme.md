@@ -71,7 +71,7 @@ This project predicts the survival of passengers aboard the Titanic using variou
 
 ## 🡩‍💻 Author
 
-Made by [**Daksh Aggarwal**](https://github.com/Daksh-Aggarwal), [**Anushka Verma**](https://github.com/anushka-verma-CODES), and **Vemula Manvi Smaran**.
+Made by [**Daksh Aggarwal**](https://github.com/Daksh-Aggarwal), [**Anushka Verma**](https://github.com/anushka-verma-CODES), and [**Vemula Manvi Smaran**](https://github.com/manvi-smaran).
 
 ## 📄 License
 
